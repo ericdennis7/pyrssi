@@ -11,7 +11,7 @@ setup(
     description="Get Wi-Fi RSSI on Mac, Windows, or Linux",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pyrssi",
+    url="https://github.com/ericdennis7/pyrssi",
     author="Eric Dennis",
     license="MIT",
     classifiers=[
