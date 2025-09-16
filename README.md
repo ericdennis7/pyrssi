@@ -20,6 +20,8 @@
 
 ```bash
 pip install pyrssi
+```
+
 Install from source
 
 ```bash
